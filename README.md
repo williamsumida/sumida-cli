@@ -14,4 +14,6 @@ Features:
         - paste link and automatically save name and owner
         - link tags
         - list videos
-
+    - Manage projects
+        - open projects
+            "sumida -p sumida-cli"
