@@ -1,6 +1,6 @@
-Python CLI to manage and automate tasks
+# Python CLI to manage and automate tasks
 
-Features:
+## Features:
     - Online file manager:
         - save files in a S3 server
         - 
