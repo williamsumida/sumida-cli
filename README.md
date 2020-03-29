@@ -17,3 +17,14 @@
     - Manage projects
         - open projects
             "sumida -p sumida-cli"
+
+## Run from anywhere
+Setting the executable flag on the script:
+```bash
+chmod u+x sumida
+```
+
+Configuring the PATH on my .zshrc file:
+```bash
+export PATH="$PATH:{path-to-the-script}"
+```
