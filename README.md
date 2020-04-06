@@ -17,6 +17,10 @@
     - Manage projects
         - open projects
             "sumida -p sumida-cli"
+    - Check connection
+        - ping default servers
+        - ???
+    - Check EC2 machines status
 
 ## Run from anywhere
 Setting the executable flag on the script:
